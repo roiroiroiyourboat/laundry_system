@@ -25,49 +25,49 @@
 
                 <ul class="sidebar-nav">
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/dashboard/dashboard.php" class="sidebar-link">
+                        <a href="/laundry_system/main/dashboard/dashboard.php" class="sidebar-link">
                             <i class="bx bxs-grid-alt"></i>
                             <span class="nav-item">Dashboard</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/my_profile/profile.php" class="sidebar-link">
+                        <a href="/laundry_system/main/my_profile/profile.php" class="sidebar-link">
                             <i class='bx bxs-user'></i>
                             <span class="nav-item">Profile</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/users/users.php" class="sidebar-link">
+                        <a href="/laundry_system/main/users/users.php" class="sidebar-link">
                             <i class='bx bxs-group'></i>
                             <span class="nav-item">Users</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/records/records.php" class="sidebar-link">
+                        <a href="/laundry_system/main/records/records.php" class="sidebar-link">
                             <i class='bx bxs-folder-open'></i>
                             <span class="nav-item">Records</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/transaction/transaction.php" class="sidebar-link">
+                        <a href="/laundry_system/main/transaction/transaction.php" class="sidebar-link">
                             <i class='bx bx-transfer-alt'></i>
                             <span class="nav-item">Transaction</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/sales_report/report.php" class="sidebar-link">
+                        <a href="/laundry_system/main/sales_report/report.php" class="sidebar-link">
                             <i class='bx bx-line-chart'></i>
                             <span class="nav-item">Sales Report</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/settings/settings.php" class="sidebar-link">
+                        <a href="/laundry_system/main/settings/settings.php" class="sidebar-link">
                             <i class='bx bxs-cog'></i>
                             <span class="nav-item" >Settings</span>
                         </a>
@@ -76,7 +76,7 @@
                     <hr style="border: 1px solid #232946; margin: 8px">
 
                     <li class="sidebar-item">
-                        <a href="/laundry-ms/main/archived/archived.php" class="sidebar-link">
+                        <a href="/laundry_system/main/archived/archived.php" class="sidebar-link">
                             <i class='bx bxs-archive-in'></i>
                             <span class="nav-item">Archived</span>
                         </a>
@@ -101,7 +101,7 @@
                     <form action="" method="post" class="user_form" id="user_form">
                         <div class="row">
                             <div class="col">
-                                <img id="profile-picture-preview" src="/laundry-ms/main/images/user-img.jpg" alt="Profile Picture Preview" class="img-fluid">
+                                <img id="profile-picture-preview" src="/laundry_system/main/images/user-img.jpg" alt="Profile Picture Preview" class="img-fluid">
                             </div>
                         </div>
 
@@ -149,7 +149,7 @@
                             <div class="col">
                                 <label for="profilePicture" class="form-label">Profile Picture</label>
                                 <br>
-                                <img id="preview_profile_pic" src="/laundry-ms/main/images/user-img.jpg" alt="Profile Picture Preview">
+                                <img id="preview_profile_pic" src="/laundry_system/main/images/user-img.jpg" alt="Profile Picture Preview">
                                 <input class="form-control" type="file" id="updateProfilePicture" accept="image/jpeg, image/png, image/jpg">
                             </div>
                         </div>

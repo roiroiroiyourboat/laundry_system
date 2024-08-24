@@ -26,7 +26,7 @@ $(document).ready(function(){
     // Fetch user data when the page loads
     $.ajax({
       type: 'GET',
-      url: '/laundry-ms/main/my_profile/configs_profile/get_user_data.php',
+      url: '/laundry_system/main/my_profile/configs_profile/get_user_data.php',
       dataType: 'json',
       success: function(data) {
           // Display user data
